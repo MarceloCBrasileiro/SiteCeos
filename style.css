@@ -1,0 +1,157 @@
+.container{
+	position: relative;
+	height: auto;
+	margin: 0 auto;
+
+}
+
+#barra{
+	
+	position: relative;
+	height: auto;
+	opacity: 0.9;
+	left: 0;
+	background: white;
+	width: auto;
+}
+
+.logo {
+    max-width: 200px;
+    height: auto;
+    
+}
+
+.CEOSt{
+	position: absolute;
+	top: 40px;
+	
+
+	width: 191px;
+    height: auto;
+}
+li{
+	display: inline-block;
+	padding: 20px;
+	margin-left: 10px;
+	font-size: 25px;
+	border: 2px solid ;
+	border-radius: 25%;
+	border-color: black;
+	margin-top: -30px;
+
+
+
+}
+
+div .menu{
+	float: right;
+
+}
+div{
+	position: absolute;
+	top: 50px;
+	right: 100px;
+
+}
+
+
+
+.cabecalho{
+	
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-height: 400px;
+	opacity: 1;
+	
+	
+	font-size: 28px;
+	
+
+}
+#TextoCeos {
+	position: absolute;
+	top:100px;
+	left:200px;
+	font-size: 18px;
+
+
+
+}
+#Fotopredio{
+
+	position: absolute;
+	top:0;
+	left:0;
+	width: 100%;
+	opacity: 0.5;
+	z-index:-1;
+	height: 1200px;
+
+
+}
+a{
+	color: black;
+}
+
+.textocentro{
+	text-align: center;
+	margin-top: 100px;
+}
+
+.divimagens{
+	position: relative;
+	top: 100px;
+    min-height: 350px;
+    background-color: white;
+    left:0;
+    
+}
+
+.contentimagens li{
+	
+	margin-bottom: 0;
+	
+	border:0px solid;
+	
+
+}
+.contentimagens li:nth-of-type(1){
+	
+	position: absolute;
+	left:26%;
+	margin-bottom: 0;
+	border:0px solid;
+	padding-right:30px;
+	bottom: 0;
+
+}
+.contentimagens li:nth-of-type(2){
+	
+	position: absolute;
+	left:41%;
+	margin-bottom: 0;
+	border:0px solid;
+	padding-right:30px;
+	bottom:0;
+
+}
+.contentimagens li:nth-of-type(3){
+	
+	position: absolute;
+	left:64%;
+	margin-bottom: 0;
+	border:0px solid;
+	padding-right:30px;
+	bottom: 0;
+
+}
+.imagempequena{
+
+	width: 150px;
+}
+.imagemgrande{
+
+	width: 300px;
+}
+
